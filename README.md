@@ -1,2 +1,3 @@
 # progriki
 Majasdarbs
+Parasts majasadarbs
